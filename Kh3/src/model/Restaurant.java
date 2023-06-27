@@ -10,7 +10,6 @@ public class Restaurant extends Reservation{
 	private String foodKind;  // 음식종류
     private int reserScore;   // 예약확정수
 	private double Ratings; // 평점
-	private List<Comment> comments; // 댓글, 리뷰
 	private String address; //식당의 주소
     private String phoneNumber; //식당의 전화번호
     private String discounts; //식당의 할인 정보
