@@ -3,7 +3,9 @@ package Interface;
 import java.util.List;
 
 public interface SearchInterface {
-
+  
+	// 검색필터 설정
+	
 //  검색하기
 	public void doSearch();
 	
